@@ -1,3 +1,4 @@
 Flask==1.0.2
 numpy==1.21.4
 pandas==1.3.4pip
+pprintpp==0.2.0
