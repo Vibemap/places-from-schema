@@ -1,4 +1,4 @@
-Global dataset of public places gathered from common crawl and other open data sources that adhere to the Schema.org standard for places and local businesses.
+Global dataset of public places gathered from common crawl, Open Street Maps, Geonames and other open data sources that adhere to the Schema.org standard for places and local businesses.
 
 This repository imports a relevant subset schema.org microdata from the common crawl digest here:
 http://webdatacommons.org/structureddata/schemaorgtables/#toc3
